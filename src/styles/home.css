@@ -1,0 +1,68 @@
+.home{
+    background-size: cover;
+    height: 100vh;
+    background-image: url("../images/bkgimage.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sec2{
+    display: flex;
+    margin-bottom: 0px;
+    flex-direction: column;
+    width: 400px;
+    height:300px;
+    border-radius: 10px;
+    background-color: rgb(249, 245, 245);
+    
+}
+.home a{
+    margin-top:0px;
+    text-decoration: none;
+    font-size:x-large;
+    font-weight:bolder;
+    color: black;
+    padding-left: 30px;
+}
+.home h1{
+    text-align: center;
+    margin-bottom:20px;
+    margin-top: 30px;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-style: oblique;
+}
+.sec2 img{
+    height:50px;
+    width:50px;
+    margin-left: 60px;
+
+}
+.admin{
+    margin-top:0px;
+    padding-left: 20px;
+    font-style: italic;
+}
+.user{
+    margin-top: 10px;
+    padding-left:20px;
+    font-style:italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

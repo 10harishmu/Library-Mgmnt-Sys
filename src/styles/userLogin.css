@@ -1,0 +1,56 @@
+.userLogin{
+    background-size: cover;
+    height: 100vh;
+    background-image: url("../images/img2bkg.jpg");
+    display: flex;
+     justify-content: center;
+    align-items: center; 
+    
+}
+.userContainer{
+    display: flex;
+    flex-direction: column;
+    background-color:white;
+    width: 460px;
+    height: 350px;
+    border-radius: 10px;
+    background-color: rgb(224, 206, 206);
+    font-size: x-large;
+    font-style: oblique;
+    font-weight: bold;
+    text-align: center;
+
+}
+.userContainer h1{
+    margin-bottom:20px;
+}
+.form2 input{
+    margin-top:0px;
+    margin-bottom: 10px;
+    width: 230px;
+    height: 35px;
+    font-weight: bold;
+    font-size: medium;
+    text-align: start;
+}
+.form2 label{
+    font-weight: bold;
+}
+.btn1{
+    margin-left: 10px;
+    height: 35px;
+    width: 70px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.btn2{
+    text-decoration: none;
+    margin-left: 20px;
+    height: 35px;
+    width:100px;
+    border-radius: 8px;
+    font-size:15px;
+    font-weight: bold;
+}
+

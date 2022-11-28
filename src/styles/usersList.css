@@ -1,0 +1,29 @@
+.urbkg{
+    background-size: cover;
+   padding-top: 80px;
+   background-image: url("https://img.freepik.com/premium-photo/school-children-library-reading-books-doing-homework-prepare-school-project-lessons_98296-10397.jpg?w=2000");
+
+}
+
+
+.ushd h1{
+    background-color: rgb(178, 165, 165);
+    padding-left: 300px;
+    text-align:start;
+    font-size:50px;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+.usrlist{
+    margin-left: 250px;
+    background-color:rgb(205, 205, 89);
+    width: 270px;
+    height: 340px;
+    padding-left: 40px;
+    border-radius: 10px;
+}
+.usrlist h1{
+    padding-top: 40px;
+    font-size:25px;
+}

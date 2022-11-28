@@ -1,0 +1,50 @@
+.categ{
+    display: flex;
+    flex-direction: column;
+    background-color:rgb(248, 245, 245);
+    width: 200px;
+    height: 100vh;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+.categ h5{
+    margin-left: 20px;
+    margin-top: 0px;
+    font-size: 14px;
+}
+.navbar{
+    margin-top: 25px;
+    margin-left: 15px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom:0px;
+    
+}
+.navbar h1{
+    margin-top:0px;
+    margin-left:10px;
+    font-size: x-large;
+    font-style:oblique;
+}
+.catry{
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+
+}
+.catry a{
+    text-decoration: none;
+    margin-bottom:30px;
+    font-weight: bold;
+    font-style:italic;
+    font-size:x-large;
+}
+.navbar img{
+    height:40px;   
+    width: 35px;
+}
+.bttn{
+    border-radius: 5px;
+    margin-right: 20px;
+}

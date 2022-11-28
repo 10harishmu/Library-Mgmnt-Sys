@@ -1,0 +1,70 @@
+{
+  "Books": [
+    {
+      "tittle": "Believe-What Life and Cricket Taught Me",
+      "author": "Suresh Raina",
+      "language": "Hindi",
+      "id": 1
+    },
+    {
+      "tittle": "The Christmas Pig",
+      "author": "J.K.Rowling",
+      "language": "English",
+      "id": 2
+    },
+    {
+      "tittle": "Whereabouts",
+      "author": "Jhumpa Lahiri",
+      "language": "Italian",
+      "id": 3
+    },
+    {
+      "tittle": "The Christmas Pig",
+      "author": "J.K.Rowling",
+      "language": "English",
+      "id": 4
+    },
+    {
+      "tittle": "Believe-What Life and Cricket Taught Me",
+      "author": "Suresh Raina",
+      "id": 5
+    }
+  ],
+  "Users": [
+    {
+      "firstName": "ABCD",
+      "lastName": "WXYZ",
+      "phoneNumber": "9876543210",
+      "email": "abcd@gmail.com",
+      "id": 1
+    },
+    {
+      "firstName": "EFGH",
+      "lastName": "STUV",
+      "phoneNumber": "8765432109",
+      "email": "efgh@gmail.com",
+      "id": 2
+    },
+    {
+      "firstName": "IJKL",
+      "lastName": "OPQR",
+      "phoneNumber": "7654321098",
+      "email": "ijkl@gmail.com",
+      "id": 3
+    },
+    {
+      "firstName": "MNOP",
+      "lastName": "KLMN",
+      "phoneNumber": "7798547835",
+      "email": "mnop@gmail.com",
+      "id": 4
+    },
+    {
+      "firstName": "QRST",
+      "lastName": "GHIJ",
+      "phoneNumber": "9786453120",
+      "email": "qrst@gmail.com",
+      "id": 5
+    }
+  ]
+}

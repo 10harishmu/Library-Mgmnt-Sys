@@ -1,0 +1,144 @@
+.sectn{
+    display: flex;
+    flex-direction: column;
+    margin:0px;
+    padding-top: 0px;
+    background-image: url("");
+    background-color:grey;
+    height:350vh;
+}
+.hdr h1{
+    margin-left: 350px;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: oblique;
+    background-color: white;
+    margin-right: 480px;
+    border-radius:5px;
+    padding-left: 18px;
+    padding-right:20px;
+    margin-top: 20px;
+    text-decoration: underline;
+    text-align: center;
+}
+.cards{
+    margin-top:0px;
+    margin-left: 380px;
+    margin-bottom:20px;
+    padding-top: 0px;
+}
+.card1{
+    margin-left: 170px;
+    padding-left: 30px;
+    background-color: white;
+    width: 580px;
+    height: 400px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    padding-bottom:25px;
+    
+}
+.card1 h1{
+    padding-top:25px;
+    font-size:xx-large;
+    font-style: oblique;
+    font-weight: bolder;
+}
+.card1 p{
+    font-size:large;
+}
+.card1 h3{
+    font-size: larger;
+    font-style: italic;
+    font-weight: bolder;
+}
+.card1 h2{
+    font-size:x-large;
+    font-style:italic;
+    font-weight: bolder;
+}
+.card2{
+    margin-top: 200px;
+    margin-left: 170px;
+    padding-left: 30px;
+    background-color: white;
+    width: 580px;
+    height:300px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+}
+.card2 h1{
+    padding-top:25px;
+    font-size: xx-large;
+    font-style: oblique;
+    font-weight: bolder;
+    font-weight: bolder;
+}
+.card2 p{
+    font-size: large;
+}
+.card3{
+    margin-top: 200px;
+    margin-left: 170px;
+    padding-left: 30px;
+    background-color: white;
+    width: 580px;
+    height:300px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+}
+.card3 h1{
+    padding-top:25px;
+    font-size: xx-large;
+    font-style: oblique;
+    font-weight: bolder;
+}
+.card3 p{
+    font-size: large;
+}
+.card4{
+    margin-top: 200px;
+    margin-left: 170px;
+    padding-left: 30px;
+    background-color: white;
+    width: 580px;
+    height:500px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+}
+.card4 h1{
+    padding-top:25px;
+    font-size: xx-large;
+    font-style: oblique;
+    font-weight: bolder;
+}
+.card4 p{
+    font-size: large;
+}
+.bkgc1{
+    height:45vh;
+    margin-right: 180px;
+    padding-top: 150px;
+    background-image: url("https://images.unsplash.com/photo-1623276527153-fa38c1616b05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZWJvb2t8ZW58MHx8MHx8&w=1000&q=80");
+}
+.bkgc2{
+    margin-top:150px;
+    height:55vh;
+    margin-right: 180px;
+    padding-top: 80px;
+    background-image: url("https://thumbs.dreamstime.com/b/education-concept-color-background-54716024.jpg")
+}
+.bkgc3{
+    margin-top:125px;
+    height:55vh;
+    margin-right: 180px;
+    padding-top:1px;
+    background-image: url("https://www.thesouthafrican.com/wp-content/uploads/2022/08/Magazines-1-800x529.jpg")
+}
+.bkgc4{
+    margin-top:125px;
+    height:75vh;
+    margin-right: 180px;
+    padding-top:01px;
+    background-image: url("https://i.guim.co.uk/img/media/e7c63e135bed470094e4fe11ac83277bcb5ba6a0/0_0_2500_1500/master/2500.jpg?width=1200&quality=85&auto=format&fit=max&s=2a8316cfca9fc3e6c7316787fbdc5f5a")
+}
